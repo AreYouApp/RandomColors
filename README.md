@@ -1,3 +1,3 @@
 # RandomColors
 
-Show only 4 colors.
+Show only 4 random colors.
